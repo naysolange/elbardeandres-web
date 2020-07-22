@@ -3772,6 +3772,18 @@
 
 /* Main */
 
+.andresinho{
+	max-width: 100px;
+}
+#principal iframe{
+width: 100%;
+height: 80vh;
+border: none;
+}
+#tematicas{
+
+}
+
 /* Footer */
 
 	#footer {
