@@ -3781,6 +3781,7 @@
 .andresinho{
 	max-width: 100px;
 }
+
 #principal {
 position: relative;
 width: 100%;
@@ -3797,6 +3798,9 @@ border: none;
 }
 #tematicas{
 
+}
+.centrado{
+	text-align: center;
 }
 
 /* Footer */
