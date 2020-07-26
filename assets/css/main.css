@@ -3796,8 +3796,9 @@ width: 100%;
 height: 100vh;
 border: none;
 }
-#tematicas{
-
+.tituloSombra{
+	padding: 20px;
+	background-color: rgba(0,0,0,0.5);
 }
 .centrado{
 	text-align: center;
