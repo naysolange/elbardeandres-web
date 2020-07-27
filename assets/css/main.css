@@ -3849,3 +3849,8 @@ border: none;
 			}
 
 		}
+
+		.credits {
+			width: 100%;
+			text-align: center;
+		}
